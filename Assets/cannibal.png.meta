@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 39afe9b34dca80b4c9e2d2730c60565f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2964188477429451177
+    second: cannibal_0
+  - first:
+      213: 7166214891334847447
+    second: cannibal_1
+  - first:
+      213: 1469491048333740423
+    second: cannibal_2
+  - first:
+      213: 2834388579090695258
+    second: cannibal_3
+  - first:
+      213: -933890394322536570
+    second: cannibal_4
+  - first:
+      213: -7894575371736852241
+    second: cannibal_5
+  - first:
+      213: 7852512619992451315
+    second: cannibal_6
+  - first:
+      213: -5280710513107587731
+    second: cannibal_7
+  - first:
+      213: -10051745736807214
+    second: cannibal_8
+  - first:
+      213: -2019189331297025152
+    second: cannibal_9
+  - first:
+      213: -2751750647802282923
+    second: cannibal_10
+  - first:
+      213: -1329491842051551074
+    second: cannibal_11
+  - first:
+      213: 4177225174892344922
+    second: cannibal_12
+  - first:
+      213: -20609045777655515
+    second: cannibal_13
+  - first:
+      213: -8738275944510535297
+    second: cannibal_14
+  - first:
+      213: -2319749649221950132
+    second: Idle_0
+  - first:
+      213: -1629840449647719063
+    second: Idle_1
+  - first:
+      213: -4983481672641843022
+    second: Idle_2
+  - first:
+      213: 5013417364204808450
+    second: Idle_3
+  - first:
+      213: 4746369352158277937
+    second: cannibal_19
+  - first:
+      213: -5301147584529163833
+    second: cannibal_20
+  - first:
+      213: 2168824803330346947
+    second: cannibal_21
+  - first:
+      213: -2350256078878276016
+    second: Jump_0
+  - first:
+      213: 5958184541344071449
+    second: Jump_1
+  - first:
+      213: -6475119461361298847
+    second: cannibal_24
+  - first:
+      213: 426605540746003110
+    second: cannibal_25
+  - first:
+      213: -7979401694864530111
+    second: Walk_0
+  - first:
+      213: -8467735946150414545
+    second: Walk_1
+  - first:
+      213: -9019073024971601516
+    second: Walk_2
+  - first:
+      213: 3384135620548394223
+    second: Walk_3
+  - first:
+      213: -5334348986371029930
+    second: cannibal_30
+  - first:
+      213: 8187816756368872076
+    second: cannibal_31
+  - first:
+      213: 2906272000162596082
+    second: cannibal_32
+  - first:
+      213: -4235834414092705517
+    second: cannibal_33
+  - first:
+      213: 3496027805276717638
+    second: cannibal_34
+  - first:
+      213: 1229553881236363737
+    second: cannibal_35
+  - first:
+      213: 3018027340122926746
+    second: cannibal_36
+  - first:
+      213: 6334325698117367406
+    second: cannibal_37
+  - first:
+      213: 6360372189020326517
+    second: cannibal_38
+  - first:
+      213: -7948569621635507586
+    second: cannibal_39
+  - first:
+      213: -8725778778645474147
+    second: cannibal_40
+  - first:
+      213: 8751578003933387475
+    second: cannibal_41
+  - first:
+      213: 158398169726987277
+    second: cannibal_42
+  - first:
+      213: 8919667297188543156
+    second: cannibal_43
+  - first:
+      213: 3474972383852989470
+    second: cannibal_44
+  - first:
+      213: 5326931970596920906
+    second: cannibal_45
+  - first:
+      213: 4519524938352677284
+    second: cannibal_46
+  - first:
+      213: -4013606110476802280
+    second: cannibal_47
+  - first:
+      213: -6659506889334196259
+    second: cannibal_48
+  - first:
+      213: 8409920550688749558
+    second: cannibal_49
+  - first:
+      213: -750382206061165369
+    second: cannibal_50
+  - first:
+      213: -8622399730157982685
+    second: cannibal_51
+  - first:
+      213: 406279952750271672
+    second: cannibal_52
+  - first:
+      213: 3388820548810493993
+    second: cannibal_53
+  - first:
+      213: -1873467907400502262
+    second: cannibal_54
+  - first:
+      213: 2304536002778240058
+    second: cannibal_55
+  - first:
+      213: 9069403000847673984
+    second: cannibal_56
+  - first:
+      213: 5160313580615971638
+    second: cannibal_57
+  - first:
+      213: -6575277139664070457
+    second: cannibal_58
+  - first:
+      213: 1406464453346431555
+    second: cannibal_59
+  - first:
+      213: -5194634168527659835
+    second: cannibal_60
+  - first:
+      213: 4129145376675161820
+    second: cannibal_61
+  - first:
+      213: -2784901197317658409
+    second: cannibal_62
+  - first:
+      213: -2421829217597435548
+    second: cannibal_63
+  - first:
+      213: 2151395458368064272
+    second: cannibal_64
+  - first:
+      213: -1992286449958826270
+    second: cannibal_65
+  - first:
+      213: 6196997155446442252
+    second: cannibal_66
+  - first:
+      213: -8708773127733867892
+    second: cannibal_67
+  - first:
+      213: -7583846967206678873
+    second: cannibal_68
+  - first:
+      213: -3836958059734182899
+    second: cannibal_69
+  - first:
+      213: 6353586486305908358
+    second: cannibal_70
+  - first:
+      213: 2992559724436926408
+    second: cannibal_71
+  - first:
+      213: -3761876191556817994
+    second: cannibal_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cannibal_0
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 849
+        width: 86
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a90d7c17b9e22920800000000000000
+      internalID: 2964188477429451177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 849
+        width: 86
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbc026b972837360800000000000000
+      internalID: 7166214891334847447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 849
+        width: 87
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7898c80a25ea46410800000000000000
+      internalID: 1469491048333740423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 859
+        width: 87
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54002c3565c55720800000000000000
+      internalID: 2834388579090695258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 860
+        width: 97
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687714362a72a03f0800000000000000
+      internalID: -933890394322536570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 860
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8d313d685d07290800000000000000
+      internalID: -7894575371736852241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_6
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 859
+        width: 66
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f80cec9f9ab9fc60800000000000000
+      internalID: 7852512619992451315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 742
+        width: 67
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2d8844c527b6b0800000000000000
+      internalID: -5280710513107587731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 742
+        width: 68
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2cf19df94cdff0800000000000000
+      internalID: -10051745736807214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 742
+        width: 69
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08348c550066af3e0800000000000000
+      internalID: -2019189331297025152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 742
+        width: 68
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c3b4f7d51dfc9d0800000000000000
+      internalID: -2751750647802282923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 747
+        width: 76
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90dcbea632bc8de0800000000000000
+      internalID: -1329491842051551074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_12
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 746
+        width: 76
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f6482a2c78f930800000000000000
+      internalID: 4177225174892344922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_13
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 746
+        width: 76
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529534b9e28c6bff0800000000000000
+      internalID: -20609045777655515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 746
+        width: 76
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79cb1a63586bb680800000000000000
+      internalID: -8738275944510535297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 630
+        width: 63
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e94e0cf79ecfd0800000000000000
+      internalID: -2319749649221950132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 630
+        width: 74
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4f2e0fb4a169e0800000000000000
+      internalID: -1629840449647719063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 630
+        width: 70
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0738582dd17dab0800000000000000
+      internalID: -4983481672641843022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 630
+        width: 58
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209e330d78c339540800000000000000
+      internalID: 5013417364204808450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 630
+        width: 66
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131f13847cd7ed140800000000000000
+      internalID: 4746369352158277937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 630
+        width: 71
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9183acb5a8e66b0800000000000000
+      internalID: -5301147584529163833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 630
+        width: 73
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfcf8eeaa6391e10800000000000000
+      internalID: 2168824803330346947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_0
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 630
+        width: 75
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05602476c86326fd0800000000000000
+      internalID: -2350256078878276016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_1
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 630
+        width: 68
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7905c549bfa250800000000000000
+      internalID: 5958184541344071449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 630
+        width: 111
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16257531821c326a0800000000000000
+      internalID: -6475119461361298847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_25
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 630
+        width: 107
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20163aa7b9be500800000000000000
+      internalID: 426605540746003110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 507
+        width: 81
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14523796f68734190800000000000000
+      internalID: -7979401694864530111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 507
+        width: 86
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f5ed550f8c7a80800000000000000
+      internalID: -8467735946150414545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 507
+        width: 97
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499824f6ed0d5d280800000000000000
+      internalID: -9019073024971601516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 507
+        width: 82
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec788eba6dd6fe20800000000000000
+      internalID: 3384135620548394223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_30
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 511
+        width: 71
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c3670cd598f5b0800000000000000
+      internalID: -5334348986371029930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 509
+        width: 67
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c829b5185f7f0a170800000000000000
+      internalID: 8187816756368872076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_32
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 509
+        width: 57
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40b5e6cf6255820800000000000000
+      internalID: 2906272000162596082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_33
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 511
+        width: 70
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31121a4fa0b4735c0800000000000000
+      internalID: -4235834414092705517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_34
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 515
+        width: 74
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642486224c2648030800000000000000
+      internalID: 3496027805276717638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_35
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 518
+        width: 64
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9db439db0401110800000000000000
+      internalID: 1229553881236363737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 376
+        width: 54
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea17a20ef22e920800000000000000
+      internalID: 3018027340122926746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 382
+        width: 98
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f9e769ab08e750800000000000000
+      internalID: 6334325698117367406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 187
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a84d5aec4944850800000000000000
+      internalID: 6360372189020326517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 386
+        width: 121
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a54fdda0201b190800000000000000
+      internalID: -7948569621635507586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_40
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 373
+        width: 111
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94d1369e6ec7e680800000000000000
+      internalID: -8725778778645474147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_41
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 376
+        width: 111
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5294a3d9d37970800000000000000
+      internalID: 8751578003933387475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_42
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 242
+        width: 66
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c26afcb4eb23200800000000000000
+      internalID: 158398169726987277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 242
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba779bf52609cb70800000000000000
+      internalID: 8919667297188543156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 242
+        width: 63
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c89dfc8f4993030800000000000000
+      internalID: 3474972383852989470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 242
+        width: 113
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed91a67601de940800000000000000
+      internalID: 5326931970596920906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 242
+        width: 111
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d7086cf398be30800000000000000
+      internalID: 4519524938352677284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_47
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 244
+        width: 56
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81761bce18ecc48c0800000000000000
+      internalID: -4013606110476802280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_48
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 244
+        width: 57
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7f7f984cda493a0800000000000000
+      internalID: -6659506889334196259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_49
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 244
+        width: 54
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f77f05ee2a06b470800000000000000
+      internalID: 8409920550688749558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_50
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 244
+        width: 55
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c443f9fb5b1695f0800000000000000
+      internalID: -750382206061165369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_51
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 246
+        width: 54
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c628cf025175880800000000000000
+      internalID: -8622399730157982685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_52
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 247
+        width: 53
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcda07e67563a500800000000000000
+      internalID: 406279952750271672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 122
+        width: 53
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d46b9552870f20800000000000000
+      internalID: 3388820548810493993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 124
+        width: 54
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a047c414dda1006e0800000000000000
+      internalID: -1873467907400502262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 125
+        width: 55
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3412b9d84b5bff10800000000000000
+      internalID: 2304536002778240058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 54
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a236e3afdfcdd70800000000000000
+      internalID: 9069403000847673984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 128
+        width: 57
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6333d3e6cdd1d9740800000000000000
+      internalID: 5160313580615971638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 56
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8939e574cefb4a0800000000000000
+      internalID: -6575277139664070457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_59
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 119
+        width: 69
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3429de2f7f3c48310800000000000000
+      internalID: 1406464453346431555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_60
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 125
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5dcefeb3f8e7b0800000000000000
+      internalID: -5194634168527659835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_61
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 123
+        width: 75
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd66baac7dbad4930800000000000000
+      internalID: 4129145376675161820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_62
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 124
+        width: 71
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d82257bd1b0a59d0800000000000000
+      internalID: -2784901197317658409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_63
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 124
+        width: 71
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4615172782fe36ed0800000000000000
+      internalID: -2421829217597435548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 120
+        width: 73
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bca6355ca4bdd10800000000000000
+      internalID: 2151395458368064272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 72
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4163870af954e0800000000000000
+      internalID: -1992286449958826270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 84
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09cd7c6418200650800000000000000
+      internalID: 6196997155446442252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5
+        width: 109
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a84fb3bf8342780800000000000000
+      internalID: -8708773127733867892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_68
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 81
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee8b04d53c0c690800000000000000
+      internalID: -7583846967206678873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 83
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d87749f260cac0800000000000000
+      internalID: -3836958059734182899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_70
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 5
+        width: 99
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6866cfd1f397c2850800000000000000
+      internalID: 6353586486305908358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_71
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 6
+        width: 109
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2430d635b78920800000000000000
+      internalID: 2992559724436926408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannibal_72
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 12
+        width: 10
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba149f8812bcbc0800000000000000
+      internalID: -3761876191556817994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
