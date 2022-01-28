@@ -429,7 +429,7 @@ GameObject:
   - component: {fileID: 1379871435}
   - component: {fileID: 1379871434}
   m_Layer: 5
-  m_Name: Text (TMP) (1)
+  m_Name: CurrentScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -474,7 +474,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Current score : 1000'
+  m_text: 'Current score : 0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -606,7 +606,7 @@ GameObject:
   - component: {fileID: 1398877171}
   - component: {fileID: 1398877170}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: HighScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -651,7 +651,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Highest score : 100000'
+  m_text: 'Highest score :'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -757,7 +757,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bc6dcee64785a546bf788cb7c0486cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 1379871434}
+  currentScoreText: {fileID: 1379871434}
+  highScoreText: {fileID: 1398877170}
 --- !u!4 &1438527979
 Transform:
   m_ObjectHideFlags: 0
@@ -770,7 +771,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1388982405}
-  - {fileID: 2097910041}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1064,7 +1064,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Theme
     clip: {fileID: 8300000, guid: d1264cba3c7101043b92b28fb97434a2, type: 3}
-    volume: 0
+    volume: 0.63
     pitch: 1
     loop: 1
     source: {fileID: 0}
@@ -1115,6 +1115,6 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 1438527979}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
